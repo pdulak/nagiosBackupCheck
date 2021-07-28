@@ -1,7 +1,7 @@
 Nagios Check - verify backup files age
 ======================================
 
-The script is looking for the most recent file mathing pattern in given directory. 
+The script is looking for the most recent file matching pattern in given directory. 
 The file age is calculated in hours. Status is related to the file age.
 
 Sample usage:
